@@ -1,5 +1,6 @@
 # https://www.w3schools.com/python/python_mysql_select.asp
-# 
+# https://dev.mysql.com/doc/employee/en/employees-installation.html
+
 import mysql.connector
 
 mydb = mysql.connector.connect(
